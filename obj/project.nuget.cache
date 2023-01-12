@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9L5b6FtTmWGWFUcmYbFD38Ee3lPe/523rhvtnncaSQBAld/PT0kWZw5fnvDo9liYGoMqeoeHvyQ1uWnxxgerWQ==",
+  "success": true,
+  "projectFilePath": "/home/nathen/osuprojects/osubackup/osubackup.csproj",
+  "expectedPackageFiles": [
+    "/home/nathen/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

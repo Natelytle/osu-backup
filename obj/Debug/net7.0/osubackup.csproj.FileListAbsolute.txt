@@ -1,0 +1,15 @@
+/home/nathen/osuprojects/osubackup/bin/Debug/net7.0/osubackup
+/home/nathen/osuprojects/osubackup/bin/Debug/net7.0/osubackup.deps.json
+/home/nathen/osuprojects/osubackup/bin/Debug/net7.0/osubackup.runtimeconfig.json
+/home/nathen/osuprojects/osubackup/bin/Debug/net7.0/osubackup.dll
+/home/nathen/osuprojects/osubackup/bin/Debug/net7.0/osubackup.pdb
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.csproj.AssemblyReference.cache
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.AssemblyInfoInputs.cache
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.AssemblyInfo.cs
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.csproj.CoreCompileInputs.cache
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.dll
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/refint/osubackup.dll
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.pdb
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/osubackup.genruntimeconfig.cache
+/home/nathen/osuprojects/osubackup/obj/Debug/net7.0/ref/osubackup.dll
