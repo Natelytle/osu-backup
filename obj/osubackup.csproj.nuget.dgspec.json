@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nathen/osuprojects/osubackup/osubackup.csproj": {}
+    "/home/nathen/osuprojects/osu-backup/osubackup.csproj": {}
   },
   "projects": {
-    "/home/nathen/osuprojects/osubackup/osubackup.csproj": {
+    "/home/nathen/osuprojects/osu-backup/osubackup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nathen/osuprojects/osubackup/osubackup.csproj",
+        "projectUniqueName": "/home/nathen/osuprojects/osu-backup/osubackup.csproj",
         "projectName": "osubackup",
-        "projectPath": "/home/nathen/osuprojects/osubackup/osubackup.csproj",
+        "projectPath": "/home/nathen/osuprojects/osu-backup/osubackup.csproj",
         "packagesPath": "/home/nathen/.nuget/packages/",
-        "outputPath": "/home/nathen/osuprojects/osubackup/obj/",
+        "outputPath": "/home/nathen/osuprojects/osu-backup/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nathen/.nuget/NuGet/NuGet.Config"

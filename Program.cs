@@ -94,7 +94,8 @@ namespace OsuBackup
                 while (File.Exists($"./backups/backup{number + 1}.txt"))
                     number++;
 
-            string[] IDs = File.ReadAllLines($"./backups/backup{number}.txt");
+            string[] values = File.ReadAllLines($"./backups/backup{number}.txt");
+            string[] IDs = values.Distinct().ToArray();
             List<string> failedIDs = new List<string>();
 
             if (IDs.Count() == 0)
