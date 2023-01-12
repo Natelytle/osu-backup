@@ -47,6 +47,9 @@ namespace OsuBackup
             DirectoryInfo[] directories = new DirectoryInfo(directory).GetDirectories();
             List<string> IDs = new List<string>();
 
+            if (!Directory.Exists("./backups/"))
+                Directory.CreateDirectory("./backups/");
+
             foreach (DirectoryInfo i in directories)
             {
                 string fileName = i.Name;
